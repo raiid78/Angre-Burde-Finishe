@@ -47,5 +47,4 @@ class SlingShot{
             pop();
         }
     }
-    
 }
